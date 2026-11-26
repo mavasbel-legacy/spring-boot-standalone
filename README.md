@@ -1,62 +1,20 @@
-# Spring-Boot Standalone Java Application
+# spring-boot-standalone
 
-A template of a Java stand alone application with maven using spring-boot ready to download and import in your favorite IDE.
+Source: [mavasbel-legacy/spring-boot-standalone](https://github.com/mavasbel-legacy/spring-boot-standalone) · default branch `main`
 
-``` bash
-├───src
-│   ├───main
-│   │   ├───java
-│   │   │   ├───com
-│   │   │   │   └───springboot
-│   │   │   │       ├───algorithms
-│   │   │   │       ├───datastructures
-│   │   │   │       ├───standalone
-│   │   │   │       └───threading
-│   │   │   └───google
-│   │   │       └───foobar
-│   │   └───resources
-│   └───test
-│       └───java
-│           └───com
-│               └───springboot
-│                   ├───algorithms
-│                   │   └───test
-│                   └───datastructures
-│                       └───test
-└───target
-    ├───classes
-    │   ├───com
-    │   │   └───springboot
-    │   │       ├───algorithms
-    │   │       ├───datastructures
-    │   │       ├───standalone
-    │   │       └───threading
-    └───test-classes
-        └───com
-            └───springboot
-                ├───algorithms
-                │   └───test
-                └───datastructures
-                    └───test
+![status](https://img.shields.io/badge/status-tool-lightgrey)
+
+> Standalone Spring Boot template with sorting algorithms, data structures and threading exercises, plus JUnit tests (Java 16, Spring Boot 2.5). Public.
+
+## Quickstart
+
+Quickstart: clone, build with the Java toolchain per the repo docs. Only the clone is asserted here:
+
+```sh
+git clone https://github.com/mavasbel-legacy/spring-boot-standalone
 ```
 
-<hr class="dashed"/>
+## Links
 
-# Screenshots
-
-## Eclipse
-<p align="center">
-    <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/java_springboot_eclipse.png"
-         style="objectt-fit:scale-down;
-                width:1000px;
-                height:540px">
-</p>
-
-## VSCode
-
-<p align="center">
-    <img src="https://githubprojectsfiles.s3.us-west-1.amazonaws.com/java_springboot_vscode.png"
-         style="objectt-fit:scale-down;
-                width:1000px;
-                height:540px">
-</p>
+- Repo: https://github.com/mavasbel-legacy/spring-boot-standalone
+- Owner: https://github.com/mavasbel-legacy
